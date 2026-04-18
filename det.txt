@@ -1,0 +1,18 @@
+@PLATER
+player = 64x64
+screen x = 800 , screen y = 600
+playerX = 370 because    800/2 = 400  and 64/2 = 32 playerX = 400-32
+playerY = 480
+
+@BOUNDARY
+atleft most = 0
+atrright most = 736
+
+@ENEMY
+enemy = 64x64
+enemyX = 4 for move enemy form thw X axis.
+enemyY = 40 ,because if enemyY reach the atrright most BOUNDARY ,then enemy moves 40D from the Y axis
+
+@BULLETE
+
+
