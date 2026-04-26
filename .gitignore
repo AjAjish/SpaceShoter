@@ -1,0 +1,5 @@
+# For python project
+
+_pycache__/
+*.pyc
+__pycache__/
